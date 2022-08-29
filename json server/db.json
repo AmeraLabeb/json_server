@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "coverImg":"assets/22.jpg",
+      "profileImg":"assets/1.webp",
+      "name":"Dean Winchester",
+      "loveNumber":632,
+      "comment":64,
+      "followed":true
+  },
+  {
+    "coverImg":"assets/22.jpg",
+    "profileImg":"assets/1.webp",
+    "name":"Jesse Pinkman",
+    "loveNumber":72,
+    "comment":24,
+    "followed":false
+},
+{
+  "coverImg":"assets/22.jpg",
+  "profileImg":"assets/1.webp",
+  "name":"Theodore Bagwell",
+  "loveNumber":22,
+  "comment":18,
+  "followed":false
+},
+{
+  "coverImg":"assets/22.jpg",
+  "profileImg":"assets/1.webp",
+  "name":"Walter White",
+  "loveNumber":48,
+  "comment":16,
+  "followed":true
+}
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
