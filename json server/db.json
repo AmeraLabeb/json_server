@@ -9,23 +9,23 @@
       "followed":true
   },
   {
-    "coverImg":"assets/22.jpg",
+    "coverImg":"assets/33.jpg",
     "profileImg":"assets/1.webp",
     "name":"Jesse Pinkman",
-    "loveNumber":72,
-    "comment":24,
+    "loveNumber":22,
+    "comment":18,
     "followed":false
 },
 {
-  "coverImg":"assets/22.jpg",
+  "coverImg":"assets/11.jpg",
   "profileImg":"assets/1.webp",
   "name":"Theodore Bagwell",
-  "loveNumber":22,
-  "comment":18,
+  "loveNumber":72,
+  "comment":24,
   "followed":false
 },
 {
-  "coverImg":"assets/22.jpg",
+  "coverImg":"assets/44.jpg",
   "profileImg":"assets/1.webp",
   "name":"Walter White",
   "loveNumber":48,
